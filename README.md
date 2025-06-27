@@ -1,7 +1,7 @@
 
-# Serviço de Entregas (Node.js e MongoDB) — Projeto 1
+# Serviço de Entregas — Projeto 1
 
-**Disciplina:** Programação Web Back-End
+**Disciplina:** Programação Web Back-End\
 **Professores:** Monique Emídio de Oliveira, Willian Massami Watanabe
 
 ## 📌 Descrição
