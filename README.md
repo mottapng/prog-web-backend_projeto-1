@@ -1,4 +1,4 @@
-# API de Serviço de Entregas (Node.js, Express e MongoDB) — Projeto 2
+# API de Serviço de Entregas — Projeto 2
 
 **Disciplina:** Programação Web Back-End  
 **Professores:** Monique Emídio de Oliveira, Willian Massami Watanabe
