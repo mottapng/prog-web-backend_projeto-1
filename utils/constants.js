@@ -1,0 +1,1 @@
+export const USERS = [{ id: 1, email: 'admin@example.com', senha: '1234' }];

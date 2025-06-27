@@ -30,4 +30,8 @@ export async function closeConnection() {
   }
 }
 
+export function getCollection(name) {
+  return db.collection(name);
+}
+
 export { db };
